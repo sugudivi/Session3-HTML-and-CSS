@@ -1,0 +1,15 @@
+h1{
+    font:300;
+    font-size: larger;
+    margin-bottom: 100px;
+    display: inline-block;
+    background-color: bisque;
+    border: 3px solid darkred;
+    padding:30px 40px;
+    margin: 30px;
+    display: inline-block;
+    margin: 20px;
+}
+p{
+    font-size:small;
+}
